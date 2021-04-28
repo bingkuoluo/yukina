@@ -44,7 +44,7 @@
   },
   "motions": {
     "idle": [],
-    "tap": [
+    "": [
       {
         "file": "motions/serious01.mtn"
       },
