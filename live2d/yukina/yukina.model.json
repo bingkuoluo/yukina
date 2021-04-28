@@ -1,7 +1,7 @@
 {
   "model": "yukina_event043.moc",
   "textures": [
-    "texture_00.png"
+    "model.043/texture_00.png"
   ],
   "controllers": {
     "param_hit": {},
@@ -46,18 +46,18 @@
     "idle": [],
     "tap": [
       {
-        "file": "serious01.mtn"
+        "file": "motions/serious01.mtn"
       },
       {
-        "file": "smile02.mtn"
+        "file": "motions/smile02.mtn"
       },
       {
-        "file": "smile01.mtn"
+        "file": "motions/smile01.mtn"
       }
     ],
     "start": [
       {
-        "file": "thinking01.mtn"
+        "file": "motions/thinking01.mtn"
       }
     ]
   },
