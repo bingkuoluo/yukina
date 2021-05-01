@@ -83,4 +83,9 @@
   },
   "physics_v2": {},
   "options": {}
+  "hit_areas":[
+			{"name":"head","id":"D_REF.HEAD"},
+			{"name":"leg","id":"D_REF.LEG"},
+			{"name":"body","id":"D_REF.BODY"}
+			]
 }
