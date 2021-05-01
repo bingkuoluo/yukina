@@ -43,8 +43,8 @@
     "intimacy_system": {}
   },
   "motions": {
-    "idle": [{ "file": "motions/thinking01.mtn"}],
-    "tap_head": [
+    "idle": [],
+    "tap": [
       {
         "file": "motions/serious01.mtn"
       },
@@ -53,39 +53,15 @@
       },
       {
         "file": "motions/smile01.mtn"
-      },
+      }
+	    ],
+    "start": [
       {
         "file": "motions/thinking01.mtn"
       }
-    ],
-    "tap_body": [
-      {
-        "file": "motions/serious01.mtn"
-      },
-      {
-        "file": "motions/smile02.mtn"
-      },
-      {
-        "file": "motions/smile01.mtn"
-      }
-    ],
-    "tap_leg": [
-      {
-        "file": "motions/serious01.mtn"
-      },
-      {
-        "file": "motions/smile02.mtn"
-      },
-      {
-        "file": "motions/smile01.mtn"
-      }
-    ]
+	]
   },
+
   "physics_v2": {},
   "options": {}
-  "hit_areas":[
-			{"name":"head","id":"D_REF.HEAD"},
-			{"name":"leg","id":"D_REF.LEG"},
-			{"name":"body","id":"D_REF.BODY"}
-			]
 }
