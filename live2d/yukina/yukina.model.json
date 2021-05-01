@@ -42,16 +42,7 @@
     },
     "intimacy_system": {}
   },
-  "motions": {
-    "idle": [],
-   
-      "tap_hat": [
-      {"file": "motions/serious01.mtn"},
-      {"file": "motions/smile02.mtn"},
-      {"file": "motions/smile01.mtn"},
-      {"file": "motions/thinking01.mtn"}
-             ]
-  },
+
   "hit_areas": [
     {
       "name": "airhead1",
@@ -76,10 +67,12 @@
     {
       "name": "afterhair",
       "id": "D_PSD.103"
+      "motion": "tap"
     },
     {
       "name": "hat",
       "id": "D_PSD1.92",
+      "motion": "tap"
     },
     {
       "name": "hat2",
@@ -92,6 +85,18 @@
       "motion": "tap"
     }
   ],
+
+  "motions": {
+    "idle": [],
+   
+      "tap": [
+      {"file": "motions/serious01.mtn"},
+      {"file": "motions/smile02.mtn"},
+      {"file": "motions/smile01.mtn"},
+      {"file": "motions/thinking01.mtn"}
+             ]
+  },
+
 
   "physics_v2": {},
   "options": {}
