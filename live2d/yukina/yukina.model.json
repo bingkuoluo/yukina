@@ -43,7 +43,11 @@
     "intimacy_system": {}
   },
   "motions": {
-    "idle": [{
+    "idle": [
+      { 
+	"file": "motions/thinking01.mtn"
+      }
+      {
         "file": "motions/serious01.mtn"
       },
       {
