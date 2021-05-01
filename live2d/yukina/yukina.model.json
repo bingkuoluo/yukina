@@ -45,7 +45,7 @@
   "motions": {
     "idle": [],
    
-      "tap": [
+      "hat": [
       {"file": "motions/serious01.mtn"},
       {"file": "motions/smile02.mtn"},
       {"file": "motions/smile01.mtn"},
@@ -80,7 +80,6 @@
     {
       "name": "hat",
       "id": "D_PSD1.92",
-      "motion": "tap"
     },
     {
       "name": "hat2",
