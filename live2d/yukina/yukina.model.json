@@ -42,18 +42,54 @@
     },
     "intimacy_system": {}
   },
+    "hit_areas": [
+    {
+      "name": "airhead1",
+      "id": "D_PSD2.63",
+      "motion": "tap"
+    },
+    {
+      "name": "hairright",
+      "id": "D_PSD1.08b1",
+      "motion": "tap"
+    },
+    {
+      "name": "hairleft",
+      "id": "D_PSD2.00"
+    },
+    {
+      "name": "hairafter",
+      "id": "D_PSD.104",
+      "motion": "tap"
+    },
+    {
+      "name": "afterhair",
+      "id": "D_PSD.103"
+    },
+    {
+      "name": "hat",
+      "id": "D_PSD1.92",
+      "motion": "tap"
+    },
+    {
+      "name": "hat2",
+      "id": "D_PSD1.91",
+      "motion": "tap"
+    },
+    {
+      "name": "hat3",
+      "id": "D_PSD1.88",
+      "motion": "tap"
+    }
+  ],
   "motions": {
-    "idle": [ 
-      {"file": "motions/serious01.mtn"},
-      {"file": "motions/smile02.mtn"},
-      {"file": "motions/smile01.mtn"},
-      {"file": "motions/thinking01.mtn"}
-	    ],
+    "idle": [],
    
       "tap": [
       {"file": "motions/serious01.mtn"},
       {"file": "motions/smile02.mtn"},
-      {"file": "motions/smile01.mtn"}
+      {"file": "motions/smile01.mtn"},
+      {"file": "motions/thinking01.mtn"}
              ]
   },
 
