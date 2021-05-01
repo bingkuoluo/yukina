@@ -44,32 +44,32 @@
   },
   "motions": {
     "idle": [],
-    "tap_head": [
+    "tap_PARTS_01_HAIR_FRONT_001": [
       {"file": "motions/serious01.mtn"},
       {"file": "motions/smile02.mtn"},
       {"file": "motions/smile01.mtn"}
     ],
-      "tap_hairinside": [
+      "tap_PARTS_HAT": [
        {"file": "motions/serious01.mtn"},
       {"file": "motions/smile02.mtn"},
       {"file": "motions/smile01.mtn"}
 ],
-"tap_hat": [
+"tap_PARTS_01_ARM_L_001": [
        {"file": "motions/serious01.mtn"},
       {"file": "motions/smile02.mtn"},
       {"file": "motions/smile01.mtn"}
 	],
-"tap_body": [
+"tap_PARTS_01_ARM_L_001": [
        {"file": "motions/serious01.mtn"},
       {"file": "motions/smile02.mtn"},
       {"file": "motions/smile01.mtn"}
 		    ],
- "tap_left": [
+ "tap_PARTS_HAIR_SIDE_001": [
        {"file": "motions/serious01.mtn"},
       {"file": "motions/smile02.mtn"},
       {"file": "motions/smile01.mtn"}
 	 ],
- "tap_right": [
+ "tap_PARTS_01_BODY": [
       {"file": "motions/serious01.mtn"},
       {"file": "motions/smile02.mtn"},
       {"file": "motions/smile01.mtn"}
@@ -78,13 +78,6 @@
   },
 
   "physics_v2": {},
-  "options": {},
-	"hit_areas":[
-	{"name":"head","id":"PARTS_01_HAIR_FRONT_001"},
-	{"name":"hat","id":"PARTS_HAT"},
-	{"name":"left","id":"PARTS_01_ARM_L_001"},
-	{"name":"right","id":"PARTS_01_ARM_L_001"}
-	{"name":"hairinside","id":"PARTS_HAIR_SIDE_001"},
-	{"name":"body","id":"PARTS_01_BODY"},
-	    ]
+  "options": {}
+
 }
