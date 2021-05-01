@@ -45,7 +45,7 @@
   "motions": {
     "idle": [],
    
-      "hat": [
+      "tap_hat": [
       {"file": "motions/serious01.mtn"},
       {"file": "motions/smile02.mtn"},
       {"file": "motions/smile01.mtn"},
