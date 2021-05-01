@@ -55,7 +55,8 @@
     },
     {
       "name": "hairleft",
-      "id": "D_PSD2.00"
+      "id": "D_PSD2.00",
+      "motion": "tap"
     },
     {
       "name": "hairafter",
