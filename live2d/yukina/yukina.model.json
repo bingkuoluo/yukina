@@ -43,7 +43,17 @@
     "intimacy_system": {}
   },
   "motions": {
-    "idle": [],
+    "idle": [{
+        "file": "motions/serious01.mtn"
+      },
+      {
+        "file": "motions/smile02.mtn"
+      },
+      {
+        "file": "motions/smile01.mtn"
+      }
+	    ],
+	  
     "tap": [
       {
         "file": "motions/serious01.mtn"
@@ -54,12 +64,8 @@
       {
         "file": "motions/smile01.mtn"
       }
-	    ],
-    "start": [
-      {
-        "file": "motions/thinking01.mtn"
-      }
-	]
+	    ]
+    
   },
 
   "physics_v2": {},
