@@ -43,38 +43,18 @@
     "intimacy_system": {}
   },
   "motions": {
-    "idle": [],
-    "tap_PARTS_01_HAIR_FRONT_001": [
+    "idle": [ 
+      {"file": "motions/serious01.mtn"},
+      {"file": "motions/smile02.mtn"},
+      {"file": "motions/smile01.mtn"},
+      {"file": "motions/thinking01.mtn"},
+	    ],
+   
+      "tap": [
       {"file": "motions/serious01.mtn"},
       {"file": "motions/smile02.mtn"},
       {"file": "motions/smile01.mtn"}
-    ],
-      "tap_PARTS_HAT": [
-       {"file": "motions/serious01.mtn"},
-      {"file": "motions/smile02.mtn"},
-      {"file": "motions/smile01.mtn"}
-],
-"tap_PARTS_01_ARM_L_001": [
-       {"file": "motions/serious01.mtn"},
-      {"file": "motions/smile02.mtn"},
-      {"file": "motions/smile01.mtn"}
-	],
-"tap_PARTS_01_ARM_L_001": [
-       {"file": "motions/serious01.mtn"},
-      {"file": "motions/smile02.mtn"},
-      {"file": "motions/smile01.mtn"}
-		    ],
- "tap_PARTS_HAIR_SIDE_001": [
-       {"file": "motions/serious01.mtn"},
-      {"file": "motions/smile02.mtn"},
-      {"file": "motions/smile01.mtn"}
-	 ],
- "tap_PARTS_01_BODY": [
-      {"file": "motions/serious01.mtn"},
-      {"file": "motions/smile02.mtn"},
-      {"file": "motions/smile01.mtn"}
-	    ]
-    
+             ]
   },
 
   "physics_v2": {},
