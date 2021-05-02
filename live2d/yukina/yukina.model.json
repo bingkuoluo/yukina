@@ -88,9 +88,9 @@
   ],
 
   "motions": {
-    "idle": [{"file": "motions/thinking01.mtn"}],
+    "idle": [],
    
-      "tap": [
+      "tap_airhair": [
       {"file": "motions/serious01.mtn"},
       {"file": "motions/smile02.mtn"},
       {"file": "motions/smile01.mtn"},
