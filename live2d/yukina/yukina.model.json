@@ -45,15 +45,15 @@
   },
 
   "motions": {
-    "idle": [{"file": "motions/smile01.mtn"}],
+    "idle": [],
    
-    "tap_airhair": [
+    "tap_body": [
       {"file": "motions/serious01.mtn"},
       {"file": "motions/smile02.mtn"},
       {"file": "motions/smile01.mtn"},
       {"file": "motions/thinking01.mtn"}
              ],
-    "tap_hat": [
+    "flick_head": [
       {"file": "motions/serious01.mtn"},
       {"file": "motions/smile02.mtn"},
       {"file": "motions/smile01.mtn"},
@@ -65,8 +65,8 @@
   "physics_v2": {},
   "options": {},
    "hit_areas": [
-    {"name": "airhair","id": "D_PSD2.63"},
-    {"name": "hat","id": "D_PSD1.92"}
+    {"name": "head","id": "D_PSD2.63"},
+    {"name": "body","id": "D_PSD1.92"}
   ]
 
 }
