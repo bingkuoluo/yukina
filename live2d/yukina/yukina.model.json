@@ -50,39 +50,9 @@
       "id": "D_PSD2.63",
     },
     {
-      "name": "hairright",
-      "id": "D_PSD1.08b1",
-      "motion": "tap"
-    },
-    {
-      "name": "hairleft",
-      "id": "D_PSD2.00",
-      "motion": "tap"
-    },
-    {
-      "name": "hairafter",
-      "id": "D_PSD.104",
-      "motion": "tap"
-    },
-    {
-      "name": "afterhair",
-      "id": "D_PSD.103",
-      "motion": "tap"
-    },
-    {
       "name": "body",
       "id": "D_PSD1.92",
 
-    },
-    {
-      "name": "hat2",
-      "id": "D_PSD1.91",
-      "motion": "tap"
-    },
-    {
-      "name": "hat3",
-      "id": "D_PSD1.88",
-      "motion": "tap"
     }
   ],
 
