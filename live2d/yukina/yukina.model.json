@@ -1,4 +1,5 @@
 {
+  "version":"Sample 1.0.0",
   "model": "yukina_event043.moc",
   "textures": [
     "model.043/texture_00.png"
@@ -45,7 +46,7 @@
 
   "hit_areas": [
     {
-      "name": "head",
+      "name": "airhair",
       "id": "D_PSD2.63",
       "motion": "tap"
     },
@@ -70,7 +71,7 @@
       "motion": "tap"
     },
     {
-      "name": "body",
+      "name": "hat
       "id": "D_PSD1.92",
       "motion": "tap"
     },
@@ -87,9 +88,9 @@
   ],
 
   "motions": {
-    "idle": [],
+    "idle": [{"file": "motions/thinking01.mtn"}],
    
-      "tap_body": [
+      "tap": [
       {"file": "motions/serious01.mtn"},
       {"file": "motions/smile02.mtn"},
       {"file": "motions/smile01.mtn"},
