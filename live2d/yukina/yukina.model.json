@@ -46,9 +46,8 @@
 
   "hit_areas": [
     {
-      "name": "airhair",
+      "name": "head",
       "id": "D_PSD2.63",
-      "motion": "tap"
     },
     {
       "name": "hairright",
@@ -71,9 +70,9 @@
       "motion": "tap"
     },
     {
-      "name": "hat",
+      "name": "body",
       "id": "D_PSD1.92",
-      "motion": "tap"
+
     },
     {
       "name": "hat2",
@@ -90,7 +89,7 @@
   "motions": {
     "idle": [],
    
-      "tap_airhair": [
+      "tap_body": [
       {"file": "motions/serious01.mtn"},
       {"file": "motions/smile02.mtn"},
       {"file": "motions/smile01.mtn"},
