@@ -44,18 +44,6 @@
     "intimacy_system": {}
   },
 
-  "hit_areas": [
-    {
-      "name": "head",
-      "id": "D_PSD2.63",
-    },
-    {
-      "name": "body",
-      "id": "D_PSD1.92",
-
-    }
-  ],
-
   "motions": {
     "idle": [],
    
@@ -75,6 +63,10 @@
 
 
   "physics_v2": {},
-  "options": {}
+  "options": {},
+   "hit_areas": [
+    { "name": "head","id": "D_PSD2.63"},
+    {"name": "body","id": "D_PSD1.92"}
+  ]
 
 }
