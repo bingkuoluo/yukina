@@ -45,7 +45,7 @@
 
   "hit_areas": [
     {
-      "name": "airhead1",
+      "name": "head",
       "id": "D_PSD2.63",
       "motion": "tap"
     },
@@ -70,7 +70,7 @@
       "motion": "tap"
     },
     {
-      "name": "hat",
+      "name": "body",
       "id": "D_PSD1.92",
       "motion": "tap"
     },
