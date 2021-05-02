@@ -89,7 +89,13 @@
   "motions": {
     "idle": [],
    
-      "tap": [
+      "tap_body": [
+      {"file": "motions/serious01.mtn"},
+      {"file": "motions/smile02.mtn"},
+      {"file": "motions/smile01.mtn"},
+      {"file": "motions/thinking01.mtn"}
+             ],
+    "flick_head": [
       {"file": "motions/serious01.mtn"},
       {"file": "motions/smile02.mtn"},
       {"file": "motions/smile01.mtn"},
