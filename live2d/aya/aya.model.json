@@ -45,18 +45,18 @@
   "motions": {
     "idle": [
       {
-        "file": "idle01.mtn"
+        "file": "motions/idle01.mtn"
       },
       {
-        "file": "strange01.mtn"
+        "file": "motions/strange01.mtn"
       }
     ],
     "tap": [
       {
-        "file": "smile01.mtn"
+        "file": "motions/smile01.mtn"
       },
       {
-        "file": "gattsu01.mtn"
+        "file": "motions/gattsu01.mtn"
       }
     ]
   },
